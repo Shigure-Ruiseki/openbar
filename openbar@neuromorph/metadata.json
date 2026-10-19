@@ -12,8 +12,11 @@
     "46",
     "47",
     "48",
-    "49"
+    "49",
+    "50",
+    "51"
   ],
+  "session-modes": ["user", "unlock-dialog"],
   "url": "https://github.com/neuromorph/openbar",
   "uuid": "openbar@neuromorph",
   "version": 42
